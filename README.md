@@ -14,7 +14,6 @@
 <a href="https://www.linkedin.com/in/elif-yurttakalan-74594a357" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
 </a>
-
 <a href="https://www.leetcode.com/eliify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eliify" height="30" width="40" /></a>
 </p>
 
