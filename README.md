@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Elif Yurttakalan</h1>
-Anladım, staj ve sertifika bilgilerini çıkararak odak noktasını tamamen AHEL Studio, projelerin ve teknik mühendislik becerilerin üzerine kuruyoruz. "Hakkımda" kısmını da gönderdiğin metne sadık kalarak en profesyonel haliyle güncelledim.
-
-İşte en rafine ve istediğin detaylara göre düzenlenmiş GitHub README içeriği:
-
-Markdown
-<h1 align="center">Hi, I'm Elif! 👋</h1>
 
 <p align="center">
   <strong>Computer Engineering Student @ THKÜ | Co-Founder of AHEL Studio</strong><br>
