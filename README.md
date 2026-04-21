@@ -11,17 +11,14 @@
 
 ---
 
-### 🚀 About Me
-[cite_start]As a Computer Engineering student, I operate at the intersection of software engineering and digital innovation[cite: 5, 6]. [cite_start]My focus is on building high-performance applications and immersive gaming experiences, with a strong commitment to continuous learning and technical growth across mobile, web, and desktop platforms[cite: 7].
+As a Computer Engineering student, I operate at the intersection of software engineering and digital innovation. My focus is on building high-performance applications and immersive gaming experiences, with a strong commitment to continuous learning and technical growth across mobile, web, and desktop platforms.
 
-- [cite_start]👩‍💻 **Co-Founder at AHEL Studio**: Managing the full software development lifecycle to transform ideas into functional products[cite: 17, 19].
-- [cite_start]🎮 **Cross-Platform Game Development**: Engineering engaging mobile games and building high-fidelity environments using **Unreal Engine** (C++/Blueprints) and **Unity** (C#).
-- [cite_start]📱 **AI-Enhanced Mobile & Web**: Developing applications using **React Native** and integrating AI APIs (Gemini/GPT) to add intelligent features[cite: 7, 23].
-- [cite_start]🛠️ **Engineering Foundation**: Applying core principles of algorithms, operating systems, and SQL to ensure robust and efficient project architecture[cite: 8, 23].
+- 👩‍💻 **Co-Founder at AHEL Studio**: Managing the full software development lifecycle to transform ideas into functional products.
+- 🎮 **Cross-Platform Game Development**: Engineering engaging mobile games and building high-fidelity environments using **Unreal Engine** (C++/Blueprints) and **Unity** (C#).
+- 📱 **AI-Enhanced Mobile & Web**: Developing applications using **React Native** and integrating AI APIs (Gemini/GPT) to add intelligent features.
+- 🛠️ **Engineering Foundation**: Applying core principles of algorithms, operating systems, and SQL to ensure robust and efficient project architecture.
 
 ---
-
-### 🛠 Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -32,15 +29,13 @@
 
 ---
 
-### 🌟 Project Portfolio
-- [cite_start]📱 **Piyuu!**: A unique social media widget application for instant photo and note sharing on home screens[cite: 19, 29].
-- [cite_start]🍕 **Easy Peasy Pizza**: An interactive mobile application providing a collection of pizza recipes and instructional guides[cite: 19, 28].
-- [cite_start]⚓ **Mars Marine**: A specialized project focusing on unique software requirements[cite: 27].
-- [cite_start]🌐 **AHEL Studio Website**: The official corporate web presence for our studio's digital solutions[cite: 4, 31].
+- 📱 **Piyuu!**: A unique social media widget application for instant photo and note sharing on home screens.
+- 🍕 **Easy Peasy Pizza**: An interactive mobile application providing a collection of pizza recipes and instructional guides.
+- ⚓ **Mars Marine**: Specialized software development project.
+- 🌐 **AHEL Studio Website**: The official corporate web presence for our studio's digital solutions.
 
 ---
 
-### 📊 GitHub Insights
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliify&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="eliify" />
 </p>
@@ -51,7 +46,6 @@
 
 ---
 
-### 📫 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/elif-yurttakalan" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
